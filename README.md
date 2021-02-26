@@ -5,9 +5,10 @@
 
 Как запустить проект на локальном сервере:
 
-    - Распаковать архив
-
-    - Перейти в директорию с проектом
+    - Скачать репозиторий и перейти в директорию с проектом:
+        
+        git clone https://github.com/eldardzhorobekov/phonebook.git
+        cd phonebook
 
     - Создать виртуальное окружение (я использовал [virtualenv](https://pypi.org/project/virtualenv/)) и активировать
 
